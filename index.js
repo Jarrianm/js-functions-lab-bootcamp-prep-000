@@ -1,7 +1,4 @@
 // write your code below!
-let happyHolidays = function(){
-
-}
 function happyHolidays(){
   return "Happy holidays!"
 }
