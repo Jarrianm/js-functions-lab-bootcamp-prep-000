@@ -2,7 +2,3 @@
 function happyHolidays(string){
   return "Happy holidays!"
 }
-var ${name}! = "Jarrian"
-function happyHolidaysTo(string){
-  return "Happy holidays, ${name}!"
-}
