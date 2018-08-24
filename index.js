@@ -1,5 +1,5 @@
 // write your code below!
-var you = happyHolidaysTo(name)
+var ${name} = you
 
 function happyHolidays(){
   return "Happy holidays!"
