@@ -1,6 +1,7 @@
 // write your code below!
-var happyHolidays = new Happyholidays!
-
+let happyHolidays = function(){
+  
+}
 function happyHolidays(){
   return "Happy holidays!"
 }
