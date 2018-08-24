@@ -1,7 +1,5 @@
 // write your code below!
 var you = happyHolidaysTo(name)
-    Independence Day = happyHolidaysTo(holiday)
-    20 = holidayCountdown(days)
 function happyHolidays(){
   return "Happy holidays!"
 }
