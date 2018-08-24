@@ -3,4 +3,3 @@ var ${name} = "Jarrian"
 function happyHolidays(string){
   return "Happy holidays!"
 }
-
